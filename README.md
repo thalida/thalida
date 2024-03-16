@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://live-window.tunl.sh/api/?units=imperial" />
+  <img src="https://live-window.tunl.sh/api/?units=imperial&v1" />
 </div>
 
 <!--
