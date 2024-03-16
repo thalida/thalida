@@ -1,4 +1,6 @@
-[![New York City Weather](https://live-window.tunl.sh/api/?v2&units=imperial)](https://live-window.tunl.sh/api/?units=imperial)
+<div align="center">
+  <img src="https://live-window.tunl.sh/api/?v2&units=imperial" />
+</div>
 
 <!--
 **thalida/thalida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
