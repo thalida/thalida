@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://live-window.tunl.sh/api/?units=imperial&v9" />
 
 <!--
 **thalida/thalida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
