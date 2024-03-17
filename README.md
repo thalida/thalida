@@ -26,17 +26,12 @@
       </a>
     </td>
     <td>
-      <a href="https://tourus.io?source=github" target="_blank">
+      <a href="https://www.linkedin.com/in/thalida/" target="_blank">
         <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />
       </a>
     </td>
     <td>
-      <a href="https://tourus.io?source=github" target="_blank">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/discord" />
-      </a>
-    </td>
-    <td>
-      <a href="https://tourus.io?source=github" target="_blank">
+      <a href="https://dribbble.com/thalida" target="_blank">
         <img height="32" width="32" src="https://cdn.simpleicons.org/dribbble" />
       </a>
     </td>
