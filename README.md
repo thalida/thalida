@@ -9,6 +9,49 @@
 
 <div align="center">
   <h3>
-    Engineer and Co-founder of <a href="https://tourus.io?source=github" target="_blank">@Tourus</a>
+    CTO and Co-founder of <a href="https://tourus.io?source=github" target="_blank">@Tourus</a>
   </h3>
 </div>
+
+<br />
+
+<table align="center" border="0">
+  <tr>
+    <td>
+      <strong>Where to find me ➜</strong>
+    </td>
+    <td>
+      <a href="https://thalida.com?source=github" target="_blank">
+        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="32" height="32" />
+      </a>
+    </td>
+    <td>
+      <a href="https://tourus.io?source=github" target="_blank">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />
+      </a>
+    </td>
+    <td>
+      <a href="https://tourus.io?source=github" target="_blank">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/discord" />
+      </a>
+    </td>
+    <td>
+      <a href="https://tourus.io?source=github" target="_blank">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/dribbble" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+-----
+
+<details>
+  <summary><strong>credits</strong></summary>
+  
+  * [Live Window API](https://github.com/thalida/live-window)
+  * [Open Weather Map API](https://openweathermap.org/)
+  * [Weather Icons](https://ui8.net/msakta/products/weather-animated-icons)
+  * [Animated Emoji](https://googlefonts.github.io/noto-emoji-animation/)
+</details>
