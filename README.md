@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://livewindow-api.onrender.com/api/?v3units=imperial" />
+  <img src="https://livewindow-api.onrender.com/api/?units=imperial" />
 </div>
 
 <h1 align="center">
