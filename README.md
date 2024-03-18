@@ -43,10 +43,8 @@
 -----
 
 <details>
-  <summary><strong>credits</strong></summary>
+  <summary><strong>made with</strong></summary>
   
   * [Live Window API](https://github.com/thalida/live-window)
-  * [Open Weather Map API](https://openweathermap.org/)
-  * [Weather Icons](https://ui8.net/msakta/products/weather-animated-icons)
   * [Animated Emoji](https://googlefonts.github.io/noto-emoji-animation/)
 </details>
