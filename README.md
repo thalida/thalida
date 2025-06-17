@@ -9,8 +9,9 @@
 
 <div align="center">
   <h3>
-    CTO and Co-founder of <a href="https://tourus.io?source=github" target="_blank">@Tourus</a>
+    Product Engineer
   </h3>
+  <p>Open to Work</p>
 </div>
 
 <br />
@@ -27,7 +28,7 @@
     </td>
     <td>
       <a href="https://www.linkedin.com/in/thalida/" target="_blank">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />
+        <img height="24" width="32" src="https://github.com/thalida/thalida/blob/main/linkedin-logo.png?raw=true" />
       </a>
     </td>
     <td>
