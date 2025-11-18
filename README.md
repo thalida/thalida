@@ -9,9 +9,8 @@
 
 <div align="center">
   <h3>
-    Product Engineer
+    Engineering Manager @ Zapier
   </h3>
-  <p>Open to Work</p>
 </div>
 
 <br />
