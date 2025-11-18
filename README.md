@@ -25,16 +25,6 @@
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="32" height="32" />
       </a>
     </td>
-    <td>
-      <a href="https://www.linkedin.com/in/thalida/" target="_blank">
-        <img height="24" width="32" src="https://github.com/thalida/thalida/blob/main/linkedin-logo.png?raw=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://dribbble.com/thalida" target="_blank">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/dribbble" />
-      </a>
-    </td>
   </tr>
 </table>
 
